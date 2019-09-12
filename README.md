@@ -28,7 +28,7 @@ problem sets (25%) + midterm exam (25%) + final project (25%) + lab(20%)+partici
 Participation: piazza, engagement during lectures, labs, and office hours
 
 ### Piazza 
-We will usePiazzafor announcements, and discussions about the course. Interactions on Piazza, particularly good answers to other students' questions, will count toward the participation grade.
+We will use Piazza for announcements, and discussions about the course. Interactions on Piazza, particularly good answers to other students' questions, will count toward the participation grade.
 
 ### Projects
 Work in groups of 2-3 students.* Topics are flexible, including applying know algorithms to an interesting dataset, reviewing and implementing a state of the art solution, to improving an existing algorithm. Project proposals due in week 4. *Check with CS if you are considering working individually or in a larger group.
