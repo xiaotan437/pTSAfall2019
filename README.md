@@ -90,7 +90,7 @@ We expect you to try solving each problem set on your own. However, if  stuck  y
   - Once you solve the homework, you must write up your solutions on your own.
   - You must write down the names of any person with whom you discussed it. This will not affect your grade.
   - Do not consult other people's solutions from similar courses.
-  - Credit should be explicitly given for any code you use that you did not write yourselves.
+  - Credit should be explicitly given for any code you use that you did not write yourself.
   - Violations result in a zero score on that assignment, and a notice to the DGS.
 
 #### *Late submission*
