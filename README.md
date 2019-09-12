@@ -90,7 +90,8 @@ We expect you to try solving each problem set on your own. However, if  stuck  y
   - Once you solve the homework, you must write up your solutions on your own.
   - You must write down the names of any person with whom you discussed it. This will not affect your grade.
   - Do not consult other people's solutions from similar courses.
+  - Credit should be explicitly given for any code you use that you did not write yourselves.
   - Violations result in a zero score on that assignment, and a notice to the DGS.
 
-#### *Policies*
-Try to solve problems on your own first. If you get stuck, you can discuss homework questions with colleagues, but you need to write up the final solution individually.  Credit should be explicitly given for any code you use that you did not write yourselves.Late submission penalties: 20% points off for each extra day of delay.
+#### *Late submission*
+Penalties: 20% points off assignment for each extra day of delay.
