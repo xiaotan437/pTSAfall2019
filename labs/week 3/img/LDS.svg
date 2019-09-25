@@ -15,7 +15,7 @@
    viewBox="0 0 323.54185 161.77401"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="LDS.svg">
   <defs
      id="defs2">
@@ -61,16 +61,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76083984"
-     inkscape:cx="116.30566"
-     inkscape:cy="144.0246"
+     inkscape:zoom="0.82696752"
+     inkscape:cx="387.43832"
+     inkscape:cy="147.89791"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1347"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -299,7 +299,7 @@
          id="tspan909"
          x="219.40254"
          y="123.82978"
-         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;font-family:Times;-inkscape-font-specification:'Times, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">n-dimensional</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;font-family:Times;-inkscape-font-specification:'Times, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">q-dimensional</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Times;-inkscape-font-specification:'Times, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -443,5 +443,16 @@
            height="67.031189"
            x="-18.400719"
            y="581.56091" /></flowRegion><flowPara
-         id="flowPara918"></flowPara></flowRoot>  </g>
+         id="flowPara918" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="230.45862"
+       y="119.40813"
+       id="text875"><tspan
+         sodipodi:role="line"
+         id="tspan873"
+         x="230.45862"
+         y="129.06363"
+         style="stroke-width:0.26458332" /></text>
+  </g>
 </svg>
